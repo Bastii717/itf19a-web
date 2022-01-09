@@ -1,0 +1,12 @@
+.center {
+    padding: 70px 0;
+    text-align: center;
+}
+
+.hackfont {
+    font-family: Hack, monospace;
+}
+
+.footer-fixed {
+    margin-top: 10px;
+}
